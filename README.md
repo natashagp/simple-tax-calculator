@@ -45,4 +45,6 @@ If the following error happens, run the command bellow
 sudo apt-get install python3-tk
 ```
 
+#### Source of error fix: https://github.com/TomSchimansky/CustomTkinter/issues/2137
+
 #### Course: https://www.udemy.com/share/108RsW3@1xoaAK-241Hf3GzLqNIIEzfOsGf0ygpKrFtsNLVBL0QIHut6FEGkgQkRsZsG34vp/
